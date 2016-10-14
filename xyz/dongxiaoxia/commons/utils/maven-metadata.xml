@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>xyz.dongxiaoxia.commons</groupId>
+  <artifactId>utils</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20161014083707</lastUpdated>
+  </versioning>
+</metadata>
