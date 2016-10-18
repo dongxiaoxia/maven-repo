@@ -2,10 +2,11 @@
 <metadata>
   <groupId>xyz.dongxiaoxia.commons</groupId>
   <artifactId>utils</artifactId>
+  <version>1.0-SNAPSHOT</version>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20161014083707</lastUpdated>
+    <lastUpdated>20161018012408</lastUpdated>
   </versioning>
 </metadata>
