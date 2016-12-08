@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>xyz.dongxiaoxia.commons</groupId>
-  <artifactId>utils</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <artifactId>json</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <buildNumber>3</buildNumber>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20161018015741</lastUpdated>
+    <lastUpdated>20161208093923</lastUpdated>
   </versioning>
 </metadata>
